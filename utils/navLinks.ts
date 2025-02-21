@@ -44,3 +44,26 @@ export const socialLinks = [
     href: "https://facebook.com/",
   },
 ];
+
+export const introCards = [
+  {
+    title: "Discover",
+    desc: "A hub for you to search names in all TLDs",
+    image: "/images/degree.png",
+  },
+  {
+    title: "Register",
+    desc: "Register names from all name services",
+    image: "/images/checkList.png",
+  },
+  {
+    title: "Trade",
+    desc: "A marketplace dedicated for domain investors",
+    image: "/images/trade.png",
+  },
+  {
+    title: "Manage",
+    desc: "Manage all your web3 names in one portal",
+    image: "/images/settings.png",
+  },
+];
